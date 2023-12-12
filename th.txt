@@ -32,5 +32,75 @@ scripting language:
 6) variable name should not be a built in function name
 
 
+TypeCasting:
+1)implicit type casting
+    :-> when we assign a value of one data type to another data type then
+     python automatically converts the data type of the variable according to the value assigned to it.
 
+     float-> 10.   10.0
+2)explicit type casting
+    :-> when we convert the data type of a variable to some other data type
+
+
+    float 10.100 --> int(10) 10
+
+
+    narrow casting
+        --> converting higher data type to lower data type
+        float --> int
+    widening casting
+        --> converting lower data type to higher data type
+        int --> float
+
+
+operators: operators are the special symbols that are used to perform some operations on the operands
+
+1)binary operators : --> operators that require 2 operands to perform an operation
+2)unary operators : --> operators that require 1 operand to perform an operation
+3)ternary operators    :- operators that require 3 operands to perform an operation
+
+types of operators:
+1)arithmetic operators +,-,*,/,%, //,**
+2)assignment operators =,+=,-=,*=,/=,%=,//=,**=
+3)comparison operators ==,!=,>,<,>=,<=
+4)logical operators and,or,not
+5)bitwise operators &,|,^,~,<<,>>
+6)identity operators is,is not
+7)membership operators in,not in
+
+
+
+#decision making statements:
+if else
+switch case *
+loops
+
+
+if else:
+
+if(condition){
+    //code
+}
+else{
+    //code
+}
+
+
+if condition:
+    //code
+else:
+    //code
+
+
+Take salary from  user monthly : 20000 pm --> count yearly salary 20000 * 12 = 240000
+
+tax amount = 10 % if saslary is less than 500000
+
+1)if yearly salary is greater than 300000 then print "you have to pay tax
+2)if yearly salary is greater than 700000 then print "you have to pay tax 12%
+3)if yearly salary is greater than 1000000 then print "you have to pay tax 20%
+
+
+Net salary of year after tax deduction
+Net salary of month after tax deduction
 
