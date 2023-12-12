@@ -1,0 +1,36 @@
+scope of area:
+
+1)web application development
+2)data science
+3)machine learning
+4)deep learning
+5)artificial intelligence
+6)IOT
+
+
+what is python:
+python is interpreted high level programming language for general purpose programming.
+
+scripting language:
+
+2 type of prog/ scripting language are there
+1)statically typed language
+
+    when we declare a variable we have to specify the data type of the variable
+
+
+2)dynamically typed language
+
+    when we declare a variable we dont have to specify the data type of the variable
+
+
+#variable declation rules:
+1) variable name should not start with number
+2) variable name should not contain any special character except underscore(_)
+3) variable name must not contain any space
+5) variable name should not be a keyword
+6) variable name should not be a built in function name
+
+
+
+
