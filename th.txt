@@ -103,4 +103,23 @@ tax amount = 10 % if saslary is less than 500000
 
 Net salary of year after tax deduction
 Net salary of month after tax deduction
+\
 
+
+get no from user and print table of that number
+5
+5 * 1 = 5
+5 * 2 = 10
+
+
+
+start 1
+
+end   50
+
+
+3 and 4 print --> sum 
+
+0 1 1 2 3 5 8 13 21 34 ......
+
+5 5*4*3*2*1 = 120
