@@ -123,3 +123,7 @@ end   50
 0 1 1 2 3 5 8 13 21 34 ......
 
 5 5*4*3*2*1 = 120
+
+
+//while ---> bank balacnce 0-> 10000
+--> invalid try again --> 2 chance --->

@@ -1,0 +1,17 @@
+ARRAY: array is group of similar data type elements.
+we have to define size at compile time...
+
+LIST 
+----
+
+list is group of different data type elements. list is collection of hetrogenious data type elements.
+list is mutable.
+
+
+
+
+TUPLE:
+SET:
+DICTIONARY:
+
+"""

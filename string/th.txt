@@ -1,0 +1,10 @@
+string :
+array of char:
+str --> [0]
+
+string is itrable
+string is immutable
+
+name ="ram"
+
+"""
