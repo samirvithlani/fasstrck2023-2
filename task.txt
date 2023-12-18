@@ -1,0 +1,8 @@
+List practice problems:
+1)remove duplicate elements from the list
+2)find the sum of all elements in the list
+3)find the largest and smallest element in the list
+5)fina all palindromw name from list and store to another list
+6)sort the list of strings in alphabetical order
+7)create list with number and if num is even store in evntlist with sqaure and 
+if odd store in oddlist with cube
