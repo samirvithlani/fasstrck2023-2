@@ -9,6 +9,16 @@ LIST :
 7) list allows slicing
 8)list datatype is list
 
-TUPLE
+TUPLE :
+1) tuple is immutable [cant change]
+2) tuple is ordered [index...]
+3) tuple is collection of heterogeneous elements [10,false,10.20]
+4) tuple is represented by ()
+5) tuple allows duplicate elements
+6) tuple allows null elements
+7) tuple allows slicing
+8) tuple datatype is tuple
+
+
 DICTIONARY
 SET
