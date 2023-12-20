@@ -20,5 +20,24 @@ TUPLE :
 8) tuple datatype is tuple
 
 
+-----------------------------
+
+key value pair
 DICTIONARY
+
+1)DICTIONARY stores data in key value pair key:value
+2)key must be unique
+3)key must be immutable
+4)key must be string,int,float,tuple
+5)key is case sensitive
+6)key:value pair is separated by ,
+7)key:value pair is represented by {}
+8)dictionary is mutable
+9)dictionary is unordered
+10)dictionary is collection of heterogeneous elements
+11)dictionary allows duplicate values
+12)dictionary allows null values
+13)dictionary allows slicing
+14)dictionary datatype is dict
+
 SET

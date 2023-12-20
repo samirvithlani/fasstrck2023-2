@@ -11,7 +11,7 @@ if odd store in oddlist with cube
 
 create cricket teams with 4 players each players have roles and score
 if batsman --> runs -50
-if bowler --> wickets - 5
+if bowler --> wickets - 5b
 
 1)find a batsman who is having heighest score
 2)find heighest wicket taking bowler..
