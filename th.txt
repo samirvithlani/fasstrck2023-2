@@ -127,3 +127,16 @@ end   50
 
 //while ---> bank balacnce 0-> 10000
 --> invalid try again --> 2 chance --->
+
+
+SET:
+--------
+1)unordered
+2)unindexed
+3)mutable
+4)does not allow duplicate values
+5)heterogenous
+6)dynamic
+7)iterable
+8){} --> set set()
+9)it is not subscriptable

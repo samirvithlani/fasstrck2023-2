@@ -17,3 +17,9 @@ if bowler --> wickets - 5b
 2)find heighest wicket taking bowler..
 3)find total runs of team
 4)find total wickets taken by team if wicket > 10 print message it is not valid....
+
+
+dict comprehesnion taks:
+"pyt"
+{'p':p,'y':"yy",'t':"ttt",}
+2){1:1,2:4,3:27,4:16,5:125}
