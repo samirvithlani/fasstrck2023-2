@@ -1,0 +1,48 @@
+function:function is collection of statements which performs a specific task.
+
+
+----------------- 100 time print("-------------)
+
+advantages of function:
+1)code reusability
+2)code optimization :
+
+    1)memory utilization will be improved
+    2)execution time will be improved
+
+3)code length will be reduced 100 lines --> 10 times --> 1 function --->
+4)easy to debug
+    bank applciarion  --> withdrawl --> deposit --> transfer --> balance enquiry
+
+5)easy to maintain
+    : if any changes required in future, we can do it easily
+6)easy to understand
+7)easy to test
+    : unit testing
+8)easy to extend
+    : if any new requirement comes, we can extend the existing function
+
+
+
+types of functions:
+1)pre k
+2)user define
+
+user will define the function as per his requirement
+4 types of user define functions:
+
+1)function without argument without return value
+2)function with argument without return value
+3)function without argument with return value
+4)function with argument with return value
+
+
+int sum(){}
+void sum(){}
+double sum(){}
+
+def keyword is used to define the function
+
+def function_name():
+    statements
+
