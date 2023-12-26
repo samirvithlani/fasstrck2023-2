@@ -46,3 +46,20 @@ def keyword is used to define the function
 def function_name():
     statements
 
+
+
+decorators: 
+1)decorators are used to add extra features to the existing function without modifying the function
+
+
+decorators expect a function as an argument and returns a function as a result
+decorators are also called as higher order functions
+decorators denotes with @ symbol
+
+lambda functions:
+1)lambda functions are also called as anonymous functions
+2)lambda functions are used to create a function without a name
+3)lambda functions are used to create a function with single line of code
+4)lambda functions are used to create a function with single expression
+
+5)lambda keyword is used to create a lambda function
