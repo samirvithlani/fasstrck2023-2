@@ -1,0 +1,68 @@
+POPS -> procedurial oriented programming structure
+OOPS -> object oriented programming structure
+    
+
+diff bw oops and pops
+1) oops is a programming structure where we can write the code in the form of classes and objects
+2) pops is a programming structure where we can write the code in the form of functions
+
+
+
+4 piller of oops
+1) encapsulation
+    1)class
+    2)object
+    3)method
+    4)variable
+    5)constructor
+2) abstraction
+3) inheritance
+    types of inheritance
+4) polymorphism
+    1)overloading
+    2)overriding
+
+class -> 
+1)class is a blueprint of an object, 
+2)class is a collection of objects, 
+3)class is a logical entity,
+4)class is a template of an object
+5)class is a user defined datatype
+6)class is a collection of variables and methods
+
+
+object ->
+1)object is a real time entity / identity
+2)object is a instance of a class
+
+IS A RELATIONSHIP AND HAS A RELATIONSHIP
+
+class        object
+Vehicle       Car
+Fruit        Mango
+
+School       Student 
+
+we have class keyword....
+1)naimg convention to be followed for class name is camel casing
+2)class name should always start with capital letter
+3)class name should not contain any special character except underscore(_)
+4)class name should not start with number
+5)class name should not be a keyword
+6)class name should not be a pre defined class name
+7)class name should not be a pre defined annotation name
+8)class name should be a noun
+
+
+constructor in python:
+1)constructotr is a special method in python, which is used to initialize the instance variables of a class
+2)constructor will be defined __init__(self)
+3)constructor will be executed automatically when we create an object
+
+type of constructor
+    1)default constructor
+    2)parameterized constructor
+    
+    
+
+
