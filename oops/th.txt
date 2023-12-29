@@ -63,6 +63,27 @@ type of constructor
     1)default constructor
     2)parameterized constructor
     
+
+
+inheritance:
+1) child class can use properties of parent class is called as inheritance
+
+types of inheritance
+1)single level inheritance
+2)multilevel inheritance
+3)multiple inheritance
+        * 1 parent class and multiple child class
+        * 1 child class and multiple parent class [java does not support] 
+4)hierarchical inheritance
+
+                                    elizabeth
+              prince charles         prince andrew         prince edward
+
+   prince william    prince harry    princess beatrice    princess eugenie    prince edward                                 
+                                                                                
+
+
+5)hybrid inheritance
     
 
 
