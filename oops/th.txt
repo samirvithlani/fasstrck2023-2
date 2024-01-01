@@ -84,6 +84,15 @@ types of inheritance
 
 
 5)hybrid inheritance
+
+
+
+polymorphism : poly -> many, morphism -> forms, many forms of an object is called as polymorphism
+
+1)compile time polymorphism -> method overloading
+    :pytho does not support method overloading
+    same name of functions is same class with different parameters is called as method overloading
+2)run time polymorphism -> method overriding
     
 
 
