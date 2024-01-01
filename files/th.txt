@@ -1,0 +1,31 @@
+use of files:
+
+to achive data persistence we use files:
+data persistence : to store data permanently in form of files or database called data persistence
+
+3 operations on files:
+1)open a files
+2)read or write a file
+3)close a file
+
+python proviedds modes to open a file:
+1)read mode r
+2)write mode w
+3)append mode a
+4)read and write mode r+
+4)write and read mode w+
+
+
+open a file: open
+
+close a file: close
+
+
+relative path: path of file with respect to current working directory ./th.txt
+    ./ means current working directory
+    ../ means parent directory
+    ../../ means grand parent directory
+    ../../../ means grand grand parent directory
+absolute path: path of file with respect to root directory
+c:\users\hp\desktop\th.txt
+
